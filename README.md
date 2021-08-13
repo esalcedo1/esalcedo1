@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @esalcedo1
 
-- I'm Currently Working On...
-
+- ⏳ I'm currently working on...
+Google Data Analytics Professional Certificate
 
 - 👀 I’m interested in ...
-Data Science
+Data Analytics/Science
+Machine Learning
 Cybersecurity
 Videogames
 Exercise
@@ -14,16 +15,15 @@ Tableau
 Machine Learning
 
 - 💞️ I’m looking to collaborate on ...
-Machine Learning
+Open Data Analyses
 
 - 📫 How to reach me ...
-Feel free to send me an email at:
-ethan.salcedo26@gmail.com
+email: ethan.salcedo26@gmail.com
 
 - 😃 Pronouns: He/Him
 
-- ⚡️ Fun Fact:
-I am Filipino
+- ⚡️ Fun fact:
+I love learning about food cultures from around the world!
 
 <!---
 esalcedo1/esalcedo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
