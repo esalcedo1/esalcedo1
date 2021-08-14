@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @esalcedo1
 
+- 📈 What I like about data analytics
+I really enjoy the end product of taking raw data and turning it into meaningful information. It fuels my need to measure everything in some way.
+
 - ⏳ I'm currently working on...
 Google Data Analytics Professional Certificate
 
